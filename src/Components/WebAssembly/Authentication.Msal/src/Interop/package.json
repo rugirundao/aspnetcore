@@ -13,6 +13,6 @@
     "webpack-cli": "^4.5.0"
   },
   "dependencies": {
-    "@azure/msal-browser": "2.8.0"
+    "@azure/msal-browser": "2.13.0"
   }
 }
