@@ -58,6 +58,6 @@
     "node-fetch": "^2.6.1",
     "abort-controller": "^3.0.0",
     "fetch-cookie": "^0.11.0",
-    "ws": "^7.4.3"
+    "ws": "^7.4.6"
   }
 }
